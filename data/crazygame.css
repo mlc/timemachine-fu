@@ -1,0 +1,110 @@
+<!--
+body {
+	font-family: Lucida Sans Unicode !important;
+	font-size: 70px !important;
+	color: #FFFF00 !important;
+	background-image: url(http://www.tobi-x.com/timemachine/cloudsscroll.gif) !important;
+	}
+
+a:link, a:visited, a:active { color: #FF00FF !important; }
+
+
+
+h1,h2,h3,h4,h5,h6 {
+	font-weight: bold !important;
+	color: #000 !important;
+	margin-top: 5px !important;
+	margin-bottom: 3px !important;
+	padding: 0px !important;
+	}
+
+h1:before { content:url(http://www.tobi-x.com/timemachine/data/coin.gif)" " !important; }
+p:before { content:url(http://www.tobi-x.com/timemachine/box.gif)" " !important; }
+
+h1 {
+	font-size: 200px !important;
+	color: #FF00FF !important;
+        text-decoration: blink !important ;
+}
+	
+h1.leftNavNoContent { margin-bottom: 8px !important; }
+
+h2 { font-size: 150px !important; color: #CCCCCC !important; }
+h3 { font-size: 14px !important; color: #FFFF00 !important; }
+h4 { font-size: 12px !important; }
+h5 { font-size: 10px !important; }
+h6 { font-size: 10px !important; }
+	
+hr {
+	border: 0px !important; 
+	margin-top: 12px !important;
+	border-top: 1px dashed #999 !important;
+	height: 1px !important;
+	}
+
+/* studivz.net */
+ul.ul_red li span {color: #CCCCCC !important; } 
+.friendtable, .amabot_widget, #header { background: #FBF9E8 url(http://www.tobi-x.com/timemachine/anim_smile_bg.gif) !important }
+
+
+.vtitlelink:before { content:url(http://www.tobi-x.com/timemachine/blanka.gif)" " !important; } /* youtube.com */
+.hpYellowBlock { background: #FBF9E8 url(http://www.tobi-x.com/timemachine/anim_smile_bg.gif) !important }
+
+/* Optimiert für Google */
+html, 
+body, 
+span,
+div,
+td,
+br,
+font,
+button,
+select,
+.a,
+.f1,
+.l,
+.q, 
+.j,
+.sm
+ {
+		font-family: comic sans ms !important;}
+		/* font-size: 8pt !important; */
+.t {background-image: url(http://www.tobi-x.com/timemachine/anim_smile_bg.gif) !important;}
+.r:before { content:url(http://www.tobi-x.com/timemachine/princess.gif)" " !important; }
+#sd {text-decoration: blink !important ;}
+body {color: #ffffff !important;}
+
+#sd {color: #ffffff !important;}
+
+/* tbody {background:#ffffff !important;color:#ffffff !important} */
+
+.small {color: #ff6600 !important}
+.j {color: #ffffff !important}
+
+
+td.j {color: #ffffff !important;}
+#a {color: #FFFF00 !important;}
+.a {color: #FFFF00 !important;}
+
+#txtgrey, .for, .Filter, .This, .Toggle {
+	font-family: comic sans ms !important;
+	font-size: 16px !important;
+	color: #FFFF00 !important;
+	background-image: url(http://www.tobi-x.com/timemachine/anim_smile_bg.gif) !important;
+}
+
+/* stuttgart.de */
+.innertable, .innertablehl,
+.txtbold, .txtitalic, .suchehighlight,
+.hl2, .hl2bold,
+.hl1, .bu, .kontexthl,
+
+
+/* flicker.com */
+td {color:#FFF000 !important;}
+
+/* bahn.de */
+.colMainTextPadding {color:#000000 !important;}
+
+
+-->
