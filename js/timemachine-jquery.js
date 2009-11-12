@@ -6,7 +6,7 @@ $(function() {
     $("head").append(sslink);
 
     if (ourstyle == "xmas.css") {
-	// Midi Datei hinzufügen, wenn xmas style erscheint
+	// Midi Datei hinzufÃ¼gen, wenn xmas style erscheint
 
 	var midilink = $("<embed/>").attr("src", "/timemachine/jingle.mid").
 	    attr("autostart", "true").attr("loop", "true").
@@ -15,9 +15,9 @@ $(function() {
 	$("body").append(midilink);
     }
 			
-    // Die ersten 4 Absätze mit speziellen random Bildern versehen (jetzt funzt!!)
+    // Die ersten 4 AbsÃ¤tze mit speziellen random Bildern versehen (jetzt funzt!!)
     var paras = $("p");
-    for (int i = 1; i <= 4; ++i) {
+    for (var i = 1; i <= 4; ++i) {
 	$(paras[Math.floor(Math.random() * paras.size())]).addClass("p" + i);
     }
-}
+});
