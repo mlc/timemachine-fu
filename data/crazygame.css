@@ -3,7 +3,7 @@ body {
 	font-family: Lucida Sans Unicode !important;
 	font-size: 70px !important;
 	color: #FFFF00 !important;
-	background-image: url(http://www.tobi-x.com/timemachine/cloudsscroll.gif) !important;
+	background-image: url(cloudsscroll.gif) !important;
 	}
 
 a:link, a:visited, a:active { color: #FF00FF !important; }
@@ -18,8 +18,8 @@ h1,h2,h3,h4,h5,h6 {
 	padding: 0px !important;
 	}
 
-h1:before { content:url(http://www.tobi-x.com/timemachine/data/coin.gif)" " !important; }
-p:before { content:url(http://www.tobi-x.com/timemachine/box.gif)" " !important; }
+h1:before { content:url(coin.gif)" " !important; }
+p:before { content:url(box.gif)" " !important; }
 
 h1 {
 	font-size: 200px !important;
@@ -44,11 +44,11 @@ hr {
 
 /* studivz.net */
 ul.ul_red li span {color: #CCCCCC !important; } 
-.friendtable, .amabot_widget, #header { background: #FBF9E8 url(http://www.tobi-x.com/timemachine/anim_smile_bg.gif) !important }
+.friendtable, .amabot_widget, #header { background: #FBF9E8 url(anim_smile_bg.gif) !important }
 
 
-.vtitlelink:before { content:url(http://www.tobi-x.com/timemachine/blanka.gif)" " !important; } /* youtube.com */
-.hpYellowBlock { background: #FBF9E8 url(http://www.tobi-x.com/timemachine/anim_smile_bg.gif) !important }
+.vtitlelink:before { content:url(blanka.gif)" " !important; } /* youtube.com */
+.hpYellowBlock { background: #FBF9E8 url(anim_smile_bg.gif) !important }
 
 /* Optimiert für Google */
 html, 
@@ -69,8 +69,8 @@ select,
  {
 		font-family: comic sans ms !important;}
 		/* font-size: 8pt !important; */
-.t {background-image: url(http://www.tobi-x.com/timemachine/anim_smile_bg.gif) !important;}
-.r:before { content:url(http://www.tobi-x.com/timemachine/princess.gif)" " !important; }
+.t {background-image: url(anim_smile_bg.gif) !important;}
+.r:before { content:url(princess.gif)" " !important; }
 #sd {text-decoration: blink !important ;}
 body {color: #ffffff !important;}
 
@@ -90,7 +90,7 @@ td.j {color: #ffffff !important;}
 	font-family: comic sans ms !important;
 	font-size: 16px !important;
 	color: #FFFF00 !important;
-	background-image: url(http://www.tobi-x.com/timemachine/anim_smile_bg.gif) !important;
+	background-image: url(anim_smile_bg.gif) !important;
 }
 
 /* stuttgart.de */

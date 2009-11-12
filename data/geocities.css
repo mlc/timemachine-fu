@@ -2,7 +2,7 @@ body {
 	font-family: comic sans ms !important;
 	font-size: 16px !important;
 	color: #FFFF00 !important;
-	background-image: url(http://www.tobi-x.com/timemachine/starsglow.gif) !important;
+	background-image: url(starsglow.gif) !important;
 	}
 
 a:link, a:visited, a:active { color: #0000FF !important; }
@@ -17,12 +17,12 @@ h1,h2,h3,h4,h5,h6 {
 	padding: 0px !important;
 	}
 
-h1:before { content:url(http://www.tobi-x.com/timemachine/new.gif)" " !important; }
-p:before { content:url(http://www.tobi-x.com/timemachine/baustelle097.gif)" " !important; }
-p.p1:before { content:url(http://www.tobi-x.com/timemachine/data/baustelle01.gif)" " !important; }
-p.p2:before { content:url(http://www.tobi-x.com/timemachine/data/baustelle02.gif)" " !important; }
-p.p3:before { content:url(http://www.tobi-x.com/timemachine/data/baustelle03.gif)" " !important; }
-p.p4:before { content:url(http://www.tobi-x.com/timemachine/data/baustelle04.gif)" " !important; }
+h1:before { content:url(new.gif)" " !important; }
+p:before { content:url(baustelle097.gif)" " !important; }
+p.p1:before { content:url(baustelle01.gif)" " !important; }
+p.p2:before { content:url(baustelle02.gif)" " !important; }
+p.p3:before { content:url(baustelle03.gif)" " !important; }
+p.p4:before { content:url(baustelle04.gif)" " !important; }
 
 h1 {
 	font-size: 19px !important;
@@ -48,11 +48,11 @@ hr {
 
 /* studivz.net */
 ul.ul_red li span {color: #CCCCCC !important; } 
-.friendtable, .amabot_widget, #header { background: #FBF9E8 url(http://www.tobi-x.com/timemachine/bar_rainbow.gif) !important }
+.friendtable, .amabot_widget, #header { background: #FBF9E8 url(bar_rainbow.gif) !important }
 
 
-.vtitlelink:before { content:url(http://www.tobi-x.com/timemachine/new.gif)" " !important; } /* youtue.com */
-.hpYellowBlock { background: #FBF9E8 url(http://www.tobi-x.com/timemachine/bar_rainbow.gif) !important }
+.vtitlelink:before { content:url(new.gif)" " !important; } /* youtue.com */
+.hpYellowBlock { background: #FBF9E8 url(bar_rainbow.gif) !important }
 
 /* Optimiert für Google, */
 html, 
@@ -73,8 +73,8 @@ select,
  {
 		font-family: comic sans ms !important;}
 		/* font-size: 8pt !important; */
-.t {background-image: url(http://www.tobi-x.com/timemachine/starsglow.gif) !important;}
-.r:before { content:url(http://www.tobi-x.com/timemachine/bullet_red.gif)" " !important; }
+.t {background-image: url(starsglow.gif) !important;}
+.r:before { content:url(bullet_red.gif)" " !important; }
 #sd {text-decoration: blink !important ;}
 body {color: #ffffff !important;}
 
@@ -96,7 +96,7 @@ td.j {color: #ffffff !important;}
 	font-family: comic sans ms !important;
 	font-size: 16px !important;
 	color: #FFFF00 !important;
-	background-image: url(http://www.tobi-x.com/timemachine/starsglow.gif) !important;
+	background-image: url(starsglow.gif) !important;
 }
 
 /* stuttgart.de */

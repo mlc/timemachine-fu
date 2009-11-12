@@ -2,7 +2,7 @@ body {
 	font-family: comic sans ms !important;
 	font-size: 16px !important;
 	color: #FFFF00 !important;
-	background-image: url(http://www.tobi-x.com/timemachine/hgschneefall.gif) !important;
+	background-image: url(hgschneefall.gif) !important;
 	}
 
 a:link, a:visited, a:active { color: #FF0000 !important; }
@@ -17,8 +17,8 @@ h1,h2,h3,h4,h5,h6 {
 	padding: 0px !important;
 	}
 
-h1:before { content:url(http://www.tobi-x.com/timemachine/xmas01.gif)" " !important; }
-p:before { content:url(http://www.tobi-x.com/timemachine/xmas001.gif)" " !important; }
+h1:before { content:url(xmas01.gif)" " !important; }
+p:before { content:url(xmas001.gif)" " !important; }
 
 h1 {
 	font-size: 19px !important;
@@ -44,11 +44,11 @@ hr {
 
 /* studivz.net */
 ul.ul_red li span {color: #CCCCCC !important; } 
-.friendtable, .amabot_widget, #header { background: #FBF9E8 url(http://www.tobi-x.com/timemachine/xmas06.gif) !important }
+.friendtable, .amabot_widget, #header { background: #FBF9E8 url(xmas06.gif) !important }
 
 
-.vtitlelink:before { content:url(http://www.tobi-x.com/timemachine/new.gif)" " !important; } /* youtue.com */
-.hpYellowBlock { background: #FBF9E8 url(http://www.tobi-x.com/timemachine/xmas06.gif) !important }
+.vtitlelink:before { content:url(new.gif)" " !important; } /* youtue.com */
+.hpYellowBlock { background: #FBF9E8 url(xmas06.gif) !important }
 
 /* Optimiert für Google, */
 html, 
@@ -69,8 +69,8 @@ select,
  {
 		font-family: comic sans ms !important;}
 		/* font-size: 8pt !important; */
-.t {background-image: url(http://www.tobi-x.com/timemachine/hgschneefall.gif) !important;}
-.r:before { content:url(http://www.tobi-x.com/timemachine/xmas03.gif)" " !important; }
+.t {background-image: url(hgschneefall.gif) !important;}
+.r:before { content:url(xmas03.gif)" " !important; }
 #sd {text-decoration: blink !important ;}
 body {color: #ffffff !important;}
 
@@ -92,7 +92,7 @@ td.j {color: #ffffff !important;}
 	font-family: comic sans ms !important;
 	font-size: 16px !important;
 	color: #FF0000 !important;
-	background-image: url(http://www.tobi-x.com/timemachine/hgschneefall.gif) !important;
+	background-image: url(hgschneefall.gif) !important;
 }
 
 /* stuttgart.de */
