@@ -8,10 +8,15 @@ $(function() {
     if (ourstyle == "xmas.css") {
 	// Midi Datei hinzufügen, wenn xmas style erscheint
 
-	var midilink = $("<embed/>").attr("src", "/timemachine/jingle.mid").
-	    attr("autostart", "true").attr("loop", "true").
-	    attr("hidden", "true").attr("height", '0').attr("width", '0').
-	    attr("autoplay", "true").attr("type", "application/x-mplayer2");
+	var midilink = $("<embed/>").attr({
+            "src": "/timemachine/jingle.mid",
+            "autostart": "true",
+            "loop": "true",
+            "hidden": "true",
+            "height": '0',
+            "width": '0',
+            "autoplay": "true",
+            "type": "application/x-mplayer2"});
 	$("body").append(midilink);
     }
 			
